@@ -18,3 +18,5 @@ User have to safe the ball from colliding with the hexagon in order to survive a
 
 
 <img src="https://github.com/ArpitMaurya01/Hexaned/blob/main/Screenshots/Screenshot_20200522-133022.png" height="140" width="300" />
+
+<img src="https://user-images.githubusercontent.com/59350776/141678560-87a180ef-5bbc-4c9b-a89f-0108877f49cf.png" width="350">
